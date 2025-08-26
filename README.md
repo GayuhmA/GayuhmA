@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayuhma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpnOHdkZm9qdXE2ZHB2dTZram80dWcxcmc5bjF6N2g4c2hwZjRnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TQGvUSXG2O3si1208i/giphy.gif" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gayuhma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -47,7 +47,7 @@
 
 ###
 
-<br clear="both">
+<br clear="both" align="center">
 
 <img src="https://raw.githubusercontent.com/gayuhma/gayuhma/output/snake.svg" alt="Snake animation" />
 
